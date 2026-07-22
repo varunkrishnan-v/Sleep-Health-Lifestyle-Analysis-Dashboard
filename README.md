@@ -1,4 +1,4 @@
-Sleep Health and Lifestyle Dashboard (Excel)
+# Sleep Health and Lifestyle Dashboard (Excel)
 
 
 **Project Overview**

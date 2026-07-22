@@ -50,15 +50,15 @@ Records: 374
 
 ## Attributes Include:
 
-Gender
-Age
-Occupation
-Sleep Duration
-Quality of Sleep
-Physical Activity Level
-Stress Level
-BMI Category
-Blood Pressure
-Heart Rate
-Daily Steps
-Sleep Disorder
+- Gender
+- Age
+- Occupation
+- Sleep Duration
+- Quality of Sleep
+- Physical Activity Level
+- Stress Level
+- BMI Category
+- Blood Pressure
+- Heart Rate
+- Daily Steps
+- Sleep Disorder

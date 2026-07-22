@@ -1,7 +1,7 @@
 Sleep Health and Lifestyle Dashboard (Excel)
 
 
-*Project Overview*
+##Project Overview
 
 This project presents an interactive Excel Dashboard built using the Sleep Health and Lifestyle Dataset. The dashboard analyzes sleep patterns, lifestyle habits, stress levels, and health indicators to uncover meaningful insights through dynamic visualizations and filters.
 

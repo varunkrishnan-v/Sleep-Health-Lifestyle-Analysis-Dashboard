@@ -20,14 +20,14 @@ Scatter Plot
 Doughnut Chart
 Bar & Column Charts
 Conditional Formatting
-📊 Dashboard KPIs
+Dashboard KPIs
 Total Participants
 Average Sleep Duration
 Average Quality of Sleep
 Average Stress Level
 Average Daily Steps
 Average Heart Rate
-📈 Dashboard Visualizations
+Dashboard Visualizations
 Sleep Disorder Distribution
 Daily Steps vs Sleep Duration (Scatter Plot)
 Average Sleep Duration by Occupation
